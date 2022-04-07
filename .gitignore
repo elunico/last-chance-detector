@@ -1,0 +1,6 @@
+venv/
+node_modules/
+.env
+package-lock.json
+lastchance.txt
+last-run.txt
